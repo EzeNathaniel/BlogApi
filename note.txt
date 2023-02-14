@@ -1,0 +1,33 @@
+Blog Api 
+
+
+register Users Model (Email name and Password)
+
+1 email Password validation 
+2. has users Password
+3. Generate token (mongooses instance methods )
+4. send response with the token 
+
+login users 
+1. email and password validation
+2. find users 
+3. compare password(if correct Generate token)
+
+generating proper jwt secret
+allkeys generator
+
+Authentication middleware
+Authorization: Bearer token
+1. get token from req.headers
+2. verify token
+
+error handing 
+
+CRUD operation for blog 
+1. schema connection 
+2. crud
+
+added things
+// allow update to user info
+handling errors for job schema 
+//
